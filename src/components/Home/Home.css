@@ -1,0 +1,9 @@
+.all-team {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.team-container {
+  width: 75vw;
+  margin: 0 auto;
+}

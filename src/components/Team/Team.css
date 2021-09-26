@@ -1,0 +1,35 @@
+.single-team {
+  height: 250px;
+  width: 250px;
+  background-color: white;
+  margin: 20px 20px 20px 0;
+  text-align: center;
+  border-radius: 10px;
+  padding-bottom: 20px;
+}
+
+.single-team img {
+  height: 40%;
+  margin-top: 20px;
+}
+
+.single-team h4 {
+  color: #656565;
+  font-weight: normal;
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.single-team button {
+  height: 35px;
+  width: 80px;
+  margin-top: 10px;
+  background-color: crimson;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  border-radius: 5px;
+}
